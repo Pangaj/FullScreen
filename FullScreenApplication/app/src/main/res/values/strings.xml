@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FullScreenApplication</string>
+    <string name="full_screen">Full Screen on/off</string>
+</resources>
